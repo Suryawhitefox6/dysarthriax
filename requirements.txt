@@ -1,0 +1,9 @@
+librosa
+numpy
+tensorflow==2.12.0
+streamlit-audiorecorder
+torch
+transformers
+gtts
+git+https://github.com/openai/whisper.git
+streamlit-option-menu

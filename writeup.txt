@@ -1,0 +1,9 @@
+<ul>
+    <li>Dysarthria, a motor speech disorder, often linked to conditions like cerebral palsy (CP) and amyotrophic lateral sclerosis (ALS), poses challenges in clear communication.</li>
+    <li>Recent deep learning advancements provide an opportunity for automated detection and characterization of dysarthria.</li>
+    <li>Leveraging the TORGO database with data from individuals with CP, ALS, and controls, this project provides a Dysarthria Speech Defect Recognition system.</li>
+    <li>Dysarthria's symptoms include slurred speech and word pronunciation difficulties.</li>
+    <li>It can be caused by conditions such as stroke, traumatic brain injury, and Parkinson's disease.</li>
+    <li>Notably, dysarthria affects 8% to 60% of stroke patients, 10% to 65% of traumatic brain injury patients, and approximately 70% to 100% of Parkinson's disease patients.</li>
+    <li>Early detection through deep learning algorithms can have a profound impact on individuals' lives, including famous figures like Stephen Hawking and Muhammad Ali.</li>
+</ul>
