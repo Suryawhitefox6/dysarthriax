@@ -1,6 +1,6 @@
 # Dysarthix:Dysarthric Speech Detection and Severity Classification
 ---
----
+
 ## Abstract
 
 Automatic dysarthric speech detection is a crucial task for identifying and classifying dysarthria, a motor speech disorder characterized by poor articulation resulting from neurological disorders. This project explores three neural network architectures: CNN-GRU (Convolutional Neural Network with Gated Recurrent Units), CNN-BiLSTM (Convolutional Neural Network with Bidirectional Long Short-Term Memory), and a transfer learning method utilizing Wav2Vec2. Our experimental results demonstrate the strong effectiveness of these methods, with the CNN-GRU model achieving 96.51% accuracy, the CNN-BiLSTM model at 94.36% accuracy, and the Wav2Vec2 model at 93.85% accuracy. The CNN-GRU structure performed best by efficiently representing local acoustic features and temporal relations in speech signals. This work lays the foundation for developing clinical tools for early detection and treatment of dysarthria and refining automatic speech recognition systems for patients with dysarthria.
